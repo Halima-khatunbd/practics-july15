@@ -95,7 +95,7 @@ font-size: 20px;
     border: 2px solid red;
     padding: 20px;
     box-shadow: 0 2px 15px 0 rgb(63, 22, 0.5);
-    margin-bottom: 33px;
+    margin-bottom: 10px;
     border-radius: 10pX;
  
 }
@@ -104,6 +104,6 @@ font-size: 20px;
     color: white;
     border-radius: 10px;
     padding: 20px;
-    margin-left: -845px;
+    margin-left: -875px;
     margin-top: 845px;
   }
