@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.body{ font-family: "Work Sans", sans-serif;}
+
+.display-flex{
+    display: flex;
+}
+main > section{
+    margin-top: 30px;
+    border: 2px solid greenyellow;
+}
+.top-one{
+    border: 2px solid indigo;
+}
+.top{
+    background-color: rgb(230, 220, 208) ;
+    border: 2px solid red;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav-link{
+justify-content:space-between;
+align-items: center;
+padding: 40px;
+
+
+}
+.list-link{
+font-size: 20px;
+}
+.link{
+    list-style: none;
+    margin-right: 05px;
+}
+.link-one{
+    text-decoration: none;
+ }
+
+.main{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.banar{
+
+}
+.banar-content{
+    max-width: 850px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.banar-title{
+    font-size: 2rem;
+}
+.button-castom{
+    background-color: rgb(237, 160, 17);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+     
+}
+.banar-img{
+    width: 100%;
+}
+
+.tem{
+    align-items: center;
+    justify-content: center;
+}
+    
+.tem-picture{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 35px;
+}
+
+.tem-side{
+    padding-left: 130px;
+    margin: 20px;
+}
+
+.feature{
+ border: 2px solid red;
+ display: flex;
+ flex-direction: row;
+ gap: 100px;
+}
+.feature-one{
+}
+.style-rap{
+    border-left: 10px solid orange;
+    padding: 10px;
+}
+
+.feature-blog{
+    border: 2px solid red;
+    padding: 20px;
+    box-shadow: 0 2px 15px 0 rgb(63, 22, 0.5);
+    margin-bottom: 33px;
+    border-radius: 10pX;
+ 
+}
+.button-last{
+    background-color: rgb(244, 160, 3);
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: -845px;
+    margin-top: 845px;
+  }
